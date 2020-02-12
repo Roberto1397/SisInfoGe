@@ -1,0 +1,22 @@
+C:\Users\NebuR\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.exe
+C:\Users\NebuR\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.deps.json
+C:\Users\NebuR\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.dll
+C:\Users\NebuR\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.pdb
+C:\Users\NebuR\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.dll
+C:\Users\NebuR\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.pdb
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.exe
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.deps.json
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.dll
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.pdb
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.dll
+C:\Users\Roberto Marquez\Documents\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.pdb
