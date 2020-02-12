@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\bin\Debug\netcoreapp3.1\07.vectorpromedio.exe
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\bin\Debug\netcoreapp3.1\07.vectorpromedio.deps.json
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\bin\Debug\netcoreapp3.1\07.vectorpromedio.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\bin\Debug\netcoreapp3.1\07.vectorpromedio.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\bin\Debug\netcoreapp3.1\07.vectorpromedio.dll
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\bin\Debug\netcoreapp3.1\07.vectorpromedio.pdb
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\obj\Debug\netcoreapp3.1\07.vectorpromedio.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\obj\Debug\netcoreapp3.1\07.vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\obj\Debug\netcoreapp3.1\07.vectorpromedio.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\obj\Debug\netcoreapp3.1\07.vectorpromedio.dll
+C:\Users\NebuR\Documents\proyectos\07.vectorpromedio\obj\Debug\netcoreapp3.1\07.vectorpromedio.pdb

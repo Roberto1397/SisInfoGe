@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.exe
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.deps.json
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.dll
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.pdb
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.dll
+C:\Users\NebuR\Documents\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.pdb

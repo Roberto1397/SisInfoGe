@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.exe
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.deps.json
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.dll
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.pdb
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.dll
+C:\Users\NebuR\Documents\proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.pdb

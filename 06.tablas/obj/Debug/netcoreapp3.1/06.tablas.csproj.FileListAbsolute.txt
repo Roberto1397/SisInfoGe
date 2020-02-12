@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\06.tablas\bin\Debug\netcoreapp3.1\06.tablas.exe
+C:\Users\NebuR\Documents\proyectos\06.tablas\bin\Debug\netcoreapp3.1\06.tablas.deps.json
+C:\Users\NebuR\Documents\proyectos\06.tablas\bin\Debug\netcoreapp3.1\06.tablas.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\06.tablas\bin\Debug\netcoreapp3.1\06.tablas.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\06.tablas\bin\Debug\netcoreapp3.1\06.tablas.dll
+C:\Users\NebuR\Documents\proyectos\06.tablas\bin\Debug\netcoreapp3.1\06.tablas.pdb
+C:\Users\NebuR\Documents\proyectos\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.dll
+C:\Users\NebuR\Documents\proyectos\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.pdb

@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.exe
+C:\Users\NebuR\Documents\proyectos\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.deps.json
+C:\Users\NebuR\Documents\proyectos\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.dll
+C:\Users\NebuR\Documents\proyectos\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.pdb
+C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.dll
+C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.pdb

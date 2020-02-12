@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.exe
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.deps.json
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.dll
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.pdb
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.dll
+C:\Users\NebuR\Documents\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.pdb
