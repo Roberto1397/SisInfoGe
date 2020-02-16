@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\bin\Debug\netcoreapp3.1\12.VectoresMultiplica.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\bin\Debug\netcoreapp3.1\12.VectoresMultiplica.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\bin\Debug\netcoreapp3.1\12.VectoresMultiplica.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\bin\Debug\netcoreapp3.1\12.VectoresMultiplica.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\bin\Debug\netcoreapp3.1\12.VectoresMultiplica.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\bin\Debug\netcoreapp3.1\12.VectoresMultiplica.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\obj\Debug\netcoreapp3.1\12.VectoresMultiplica.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\obj\Debug\netcoreapp3.1\12.VectoresMultiplica.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\obj\Debug\netcoreapp3.1\12.VectoresMultiplica.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\obj\Debug\netcoreapp3.1\12.VectoresMultiplica.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\12.VectoresMultiplica\obj\Debug\netcoreapp3.1\12.VectoresMultiplica.pdb

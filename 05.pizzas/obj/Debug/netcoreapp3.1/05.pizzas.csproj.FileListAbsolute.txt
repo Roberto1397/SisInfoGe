@@ -9,3 +9,14 @@ C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.A
 C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.AssemblyInfo.cs
 C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.dll
 C:\Users\NebuR\Documents\proyectos\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.pdb

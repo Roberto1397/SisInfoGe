@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\obj\Debug\netcoreapp3.1\13.Vectorestadisticas.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\obj\Debug\netcoreapp3.1\13.Vectorestadisticas.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\obj\Debug\netcoreapp3.1\13.Vectorestadisticas.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\bin\Debug\netcoreapp3.1\13.Vectorestadisticas.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\bin\Debug\netcoreapp3.1\13.Vectorestadisticas.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\bin\Debug\netcoreapp3.1\13.Vectorestadisticas.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\bin\Debug\netcoreapp3.1\13.Vectorestadisticas.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\bin\Debug\netcoreapp3.1\13.Vectorestadisticas.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\bin\Debug\netcoreapp3.1\13.Vectorestadisticas.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\obj\Debug\netcoreapp3.1\13.Vectorestadisticas.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\13.Vectorestadisticas\obj\Debug\netcoreapp3.1\13.Vectorestadisticas.pdb
