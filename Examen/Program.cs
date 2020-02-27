@@ -39,12 +39,16 @@ namespace Examen
                     if (no.Saltos>mayor)
                     {
                         mayor=no.Saltos;
-                    }else
+                    }
+                menor=mayor;
+                 foreach(Nodo no in red.Nodos)
+                    if (menor>no.Saltos)
                     {
                         menor=no.Saltos;
                     }
+                    
                 Console.WriteLine($"\nMayor numero de saltos:{mayor}");    
-                Console.WriteLine($"Mayor numero de saltos:{menor}\n");     
+                Console.WriteLine($"Menor numero de saltos:{menor}\n");     
                 Console.WriteLine(">> Vulnerabilidades por nodo:");
                 foreach(Nodo nd in red.Nodos){
                      Console.WriteLine($"\nIp: {nd.Ip}    Tipo: {nd.Tipo}\n\nVulenravilidades:\n");
