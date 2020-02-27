@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\obj\Debug\netcoreapp3.1\Examen.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\obj\Debug\netcoreapp3.1\Examen.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\obj\Debug\netcoreapp3.1\Examen.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\bin\Debug\netcoreapp3.1\Examen.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\bin\Debug\netcoreapp3.1\Examen.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\bin\Debug\netcoreapp3.1\Examen.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\bin\Debug\netcoreapp3.1\Examen.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\bin\Debug\netcoreapp3.1\Examen.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\bin\Debug\netcoreapp3.1\Examen.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\obj\Debug\netcoreapp3.1\Examen.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\Examen\obj\Debug\netcoreapp3.1\Examen.pdb
