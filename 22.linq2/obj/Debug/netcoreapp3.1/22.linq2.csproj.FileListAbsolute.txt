@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\obj\Debug\netcoreapp3.1\22.linq2.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\obj\Debug\netcoreapp3.1\22.linq2.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\obj\Debug\netcoreapp3.1\22.linq2.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\bin\Debug\netcoreapp3.1\22.linq2.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\bin\Debug\netcoreapp3.1\22.linq2.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\bin\Debug\netcoreapp3.1\22.linq2.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\bin\Debug\netcoreapp3.1\22.linq2.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\bin\Debug\netcoreapp3.1\22.linq2.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\bin\Debug\netcoreapp3.1\22.linq2.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\obj\Debug\netcoreapp3.1\22.linq2.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\22.linq2\obj\Debug\netcoreapp3.1\22.linq2.pdb
