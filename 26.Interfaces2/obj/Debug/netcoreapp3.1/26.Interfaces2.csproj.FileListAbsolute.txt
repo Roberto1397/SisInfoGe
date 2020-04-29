@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\obj\Debug\netcoreapp3.1\26.Interfaces2.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\obj\Debug\netcoreapp3.1\26.Interfaces2.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\obj\Debug\netcoreapp3.1\26.Interfaces2.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\bin\Debug\netcoreapp3.1\26.Interfaces2.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\bin\Debug\netcoreapp3.1\26.Interfaces2.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\bin\Debug\netcoreapp3.1\26.Interfaces2.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\bin\Debug\netcoreapp3.1\26.Interfaces2.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\bin\Debug\netcoreapp3.1\26.Interfaces2.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\bin\Debug\netcoreapp3.1\26.Interfaces2.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\obj\Debug\netcoreapp3.1\26.Interfaces2.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\26.Interfaces2\obj\Debug\netcoreapp3.1\26.Interfaces2.pdb
