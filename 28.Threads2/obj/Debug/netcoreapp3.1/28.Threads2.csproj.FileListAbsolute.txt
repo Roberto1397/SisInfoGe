@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\obj\Debug\netcoreapp3.1\28.Threads2.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\obj\Debug\netcoreapp3.1\28.Threads2.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\obj\Debug\netcoreapp3.1\28.Threads2.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\bin\Debug\netcoreapp3.1\28.Threads2.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\bin\Debug\netcoreapp3.1\28.Threads2.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\bin\Debug\netcoreapp3.1\28.Threads2.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\bin\Debug\netcoreapp3.1\28.Threads2.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\bin\Debug\netcoreapp3.1\28.Threads2.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\bin\Debug\netcoreapp3.1\28.Threads2.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\obj\Debug\netcoreapp3.1\28.Threads2.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\28.Threads2\obj\Debug\netcoreapp3.1\28.Threads2.pdb
