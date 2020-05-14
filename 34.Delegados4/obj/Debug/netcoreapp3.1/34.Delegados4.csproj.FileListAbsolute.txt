@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\obj\Debug\netcoreapp3.1\34.Delegados4.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\obj\Debug\netcoreapp3.1\34.Delegados4.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\obj\Debug\netcoreapp3.1\34.Delegados4.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\bin\Debug\netcoreapp3.1\34.Delegados4.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\bin\Debug\netcoreapp3.1\34.Delegados4.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\bin\Debug\netcoreapp3.1\34.Delegados4.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\bin\Debug\netcoreapp3.1\34.Delegados4.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\bin\Debug\netcoreapp3.1\34.Delegados4.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\bin\Debug\netcoreapp3.1\34.Delegados4.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\obj\Debug\netcoreapp3.1\34.Delegados4.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\34.Delegados4\obj\Debug\netcoreapp3.1\34.Delegados4.pdb
