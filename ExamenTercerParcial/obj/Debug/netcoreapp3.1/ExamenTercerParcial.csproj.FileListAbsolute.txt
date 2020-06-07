@@ -1,0 +1,11 @@
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\obj\Debug\netcoreapp3.1\ExamenTercerParcial.csprojAssemblyReference.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\obj\Debug\netcoreapp3.1\ExamenTercerParcial.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\obj\Debug\netcoreapp3.1\ExamenTercerParcial.AssemblyInfo.cs
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\bin\Debug\netcoreapp3.1\ExamenTercerParcial.exe
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\bin\Debug\netcoreapp3.1\ExamenTercerParcial.deps.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\bin\Debug\netcoreapp3.1\ExamenTercerParcial.runtimeconfig.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\bin\Debug\netcoreapp3.1\ExamenTercerParcial.runtimeconfig.dev.json
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\bin\Debug\netcoreapp3.1\ExamenTercerParcial.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\bin\Debug\netcoreapp3.1\ExamenTercerParcial.pdb
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\obj\Debug\netcoreapp3.1\ExamenTercerParcial.dll
+C:\Users\Roberto Marquez\Documents\SisInfoGeo\ExamenTercerParcial\obj\Debug\netcoreapp3.1\ExamenTercerParcial.pdb
